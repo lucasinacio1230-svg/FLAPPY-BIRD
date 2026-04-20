@@ -1,4 +1,4 @@
-🐦 Flappy Bird em Java
+🐦 Flappy Bird
 
 Este projeto consiste no desenvolvimento de uma recriação do clássico jogo Flappy Bird, implementado inteiramente utilizando a linguagem de programação Java. O objetivo principal foi aplicar conceitos fundamentais e intermediários de programação, lógica e estrutura de jogos em um projeto prático e interativo.
 
