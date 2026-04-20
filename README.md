@@ -60,7 +60,3 @@ Ao desenvolver este jogo, foram consolidados conhecimentos importantes como:
 * Boas práticas de desenvolvimento em Java
 
 ⸻
-
-📌 Considerações Finais
-
-Este projeto representa um passo importante na evolução como desenvolvedor, demonstrando a capacidade de transformar conceitos teóricos em uma aplicação prática, funcional e interativa.
